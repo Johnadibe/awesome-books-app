@@ -13,7 +13,7 @@ This project is to build a basic website with ES6 syntax and modules that allows
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://natanima.github.io/Awesome-books/)
+[Live Demo Link](https://johnadibe.github.io/awesome-books-app/)
 
 ## Getting Started
 
